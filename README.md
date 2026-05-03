@@ -6,20 +6,20 @@ This repository contains my professional certificates and completed courses.
 - **Platform:** Cognitive Class  
 - **Date:** 2025  
 - **Skills:** Machine learning
-- 📄 [View Certificate](./IBM ML0101EN Certificate _ Cognitive Class-1.png)
+- 📄 [View Certificate](./IBM_ML0101EN_Certificate_Cognitive_Class-1.png)
 
 ---
 
 ### 2. Deep learning with TensorFlow
-- **Platform:**Cognitive Class    
+- **Platform:** Cognitive Class    
 - **Date:** 2026  
 - **Skills:** Deep learning
-- 📄 [View Certificate](./IBM ML0120EN Certificate _ Cognitive Class-1.png)
+- 📄 [View Certificate](./IBM_ML0120EN_Certificate_Cognitive_Class-1.png)
 
 ---
 
 ### 3. Introducing Coding for Beginners: an HTML and CSS Online Course 
-- **Platform:**BitDegree   
+- **Platform:** BitDegree   
 - **Date:** 2020  
 - **Skills:** UI, Wireframing, Prototyping  
 - 📄 [View Certificate](./bitdegree-certificate-881555-1.png)
@@ -27,7 +27,7 @@ This repository contains my professional certificates and completed courses.
 ---
 
 ### 4. Верстка вебсайтів
-- **Platform:**Freshcode   
+- **Platform:** Freshcode   
 - **Date:** 2025  
 - **Skills:** UI, Wireframing, Prototyping  
 - 📄 [View Certificate](./freshcode-certificate.png)
