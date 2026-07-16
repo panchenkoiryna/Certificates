@@ -38,7 +38,7 @@ This repository contains my professional certificates and completed courses.
 - **Platform:** TANDEM-UA-DE (Teaching and Administration Network for Double Degree Education and Mobility — Ukraine and Germany), Ostbayerische Technische Hochschule Amberg-Weiden
 - **Date:** 2026  
 - **Skills:** Product management, Scrum, Data Analysis
-- 📄 [View Certificate](./freshcode-certificate.png)
+- 📄 [View Certificate](./certificate_PM.png)
 
 ---
 
