@@ -40,6 +40,12 @@ This repository contains my professional certificates and completed courses.
 - **Skills:** Product management, Scrum, Data Analysis
 - 📄 [View Certificate](./certificate_PM.png)
 
+### 6. Technical English
+- **Platform:** TANDEM-UA-DE (Teaching and Administration Network for Double Degree Education and Mobility — Ukraine and Germany), Ostbayerische Technische Hochschule Amberg-Weiden
+- **Date:** 2026  
+- **Skills:** technical english
+- 📄 [View Certificate](./certificate_TE.png)
+
 ---
 
 ## 🛠 Skills Overview
